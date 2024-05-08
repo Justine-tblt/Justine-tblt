@@ -3,4 +3,4 @@
 
 🔭 Je travaille actuellement sur **un site de réservation d'escape game**
 
-<p><a href="https://www.linkedin.com/in/justine-thebault-1254142b3/" target="blank">Cliquez ici</a>pour accéder à mon profil LinkedIn</p>
+<p><a href="https://www.linkedin.com/in/justine-thebault-1254142b3/" target="blank">Cliquez ici</a> pour accéder à mon profil LinkedIn</p>
